@@ -1,0 +1,176 @@
+Uri: https://cashbuddy.ng/
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\index.htm
+Content Type: text/html
+
+Uri: https://cashbuddy.ng/public/login.php
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\public\login.php.html
+Content Type: text/html
+
+Uri: https://cashbuddy.ng/assets/img/banners/background.jpg
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\img\banners\background.jpg
+Content Type: image/jpeg
+
+Uri: https://cashbuddy.ng/assets/img/brand/favicon.jpeg
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\img\brand\favicon.jpeg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\css.css
+Content Type: text/css
+
+Uri: https://cashbuddy.ng/assets/vendor/nucleo/css/nucleo.css
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\nucleo\css\nucleo.css
+Content Type: text/css
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\css\all.min.css
+Content Type: text/css
+
+Uri: https://cashbuddy.ng/assets/css/argon.css?v=1.2.0
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\css\argon.css
+Content Type: text/css
+
+Uri: https://cashbuddy.ng/assets/css/style.css
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\css\style.css
+Content Type: text/css
+
+Uri: https://cashbuddy.ng/public/forgot.php
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\public\forgot.php.html
+Content Type: text/html
+
+Uri: https://cashbuddy.ng/public/register.php
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\public\register.php.html
+Content Type: text/html
+
+Uri: https://kit.fontawesome.com/dd1a4de995.js
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\dd1a4de995.js
+Content Type: text/javascript
+
+Uri: https://apis.google.com/js/platform.js
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\js\platform.js
+Content Type: application/javascript
+
+Uri: https://cashbuddy.ng/assets/img/brand/cashbuddy white logoo.png
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\img\brand\cashbuddy white logoo.png
+Content Type: image/png
+
+Uri: https://cashbuddy.ng/assets/img/brand/cashbuddy colored logo.png
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\img\brand\cashbuddy colored logo.png
+Content Type: image/png
+
+Uri: https://cashbuddy.ng/assets/vendor/jquery/dist/jquery.min.js
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\jquery\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cashbuddy.ng/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\bootstrap\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cashbuddy.ng/assets/vendor/js-cookie/js.cookie.js
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\js-cookie\js.cookie.js
+Content Type: application/javascript
+
+Uri: https://cashbuddy.ng/assets/vendor/jquery.scrollbar/jquery.scrollbar.min.js
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\jquery.scrollbar\jquery.scrollbar.min.js
+Content Type: application/javascript
+
+Uri: https://cashbuddy.ng/assets/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\jquery-scroll-lock\dist\jquery-scrollLock.min.js
+Content Type: application/javascript
+
+Uri: https://cashbuddy.ng/assets/js/argon.js?v=1.2.0
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\js\argon.js
+Content Type: application/javascript
+
+Uri: https://cashbuddy.ng/assets/vendor/nucleo/fonts/nucleo-icons.eot
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\nucleo\fonts\nucleo-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cashbuddy.ng/assets/vendor/nucleo/fonts/nucleo-icons.woff2
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\nucleo\fonts\nucleo-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cashbuddy.ng/assets/vendor/nucleo/fonts/nucleo-icons.woff
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\nucleo\fonts\nucleo-icons.woff
+Content Type: font/woff
+
+Uri: https://cashbuddy.ng/assets/vendor/nucleo/fonts/nucleo-icons.ttf
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\nucleo\fonts\nucleo-icons.ttf
+Content Type: font/ttf
+
+Uri: https://cashbuddy.ng/assets/vendor/nucleo/fonts/nucleo-icons.svg
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\nucleo\fonts\nucleo-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot?
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-brands-400.svg
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot?
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-regular-400.svg
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot?
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://cashbuddy.ng/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.svg
+File Name: C:\users\lakesbim\Desktop\Desktop\cashbuddy.ng\assets\vendor\@fortawesome\fontawesome-free\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
